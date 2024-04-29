@@ -1,0 +1,6 @@
+devel_space: /home/terranova/VSLAM_ws/devel
+install: false
+install_space: /home/terranova/VSLAM_ws/install
+profile: default
+source_space: /home/terranova/VSLAM_ws/src
+workspace: /home/terranova/VSLAM_ws
